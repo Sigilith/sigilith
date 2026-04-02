@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Sigilith"
+message: "If you use this work, please cite it as below."
+type: report
+authors:
+  - family-names: Nash
+    given-names: K
+year: 2026
+doi: 10.17613/b5s4r-5t265
+url: https://doi.org/10.17613/b5s4r-5t265
+version: "v1.0"
